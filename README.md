@@ -1,2 +1,2 @@
 # DIO_CSS
-obs: lebrar flex-grow, flex-shirink, flex-basis, align-content
+obs: lebrar flex-grow, flex-shirink, flex-basis, align-content, align-self
